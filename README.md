@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=d66z&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=ddrnz&color=006bed)
 
-# 👋 Hello, I'm Daniel (d66z)!
+# 👋 Hello, I'm Daniel (ddrnz)!
 
 💻 **Back-end Developer** | Building efficient and scalable solutions.
 
@@ -55,13 +55,13 @@ I'm a back-end developer passionate about **high performance, software architect
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=d66z&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ddrnz&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d66z&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrnz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=d66z&theme=dark&hide_border=false" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddrnz&theme=dark&hide_border=false" alt="Streak Stats" />
     </td>
   </tr>
 </table>
@@ -70,4 +70,4 @@ I'm a back-end developer passionate about **high performance, software architect
 
 ## 📫 Where to Find Me
 
-[![GitHub](https://img.shields.io/github/followers/drnz?label=follow&style=social)](https://github.com/d66z)
+[![GitHub](https://img.shields.io/github/followers/drnz?label=follow&style=social)](https://github.com/ddrnz)
