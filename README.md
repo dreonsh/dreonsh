@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=dxrnz&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=dreon1st&color=006bed)
 
-# 👋 Hello, I'm Daniel (dxrnz)!
+# 👋 Hello, I'm Daniel (dreon1st)!
 
 💻 **Back-end Developer** | Building efficient and scalable solutions.
 
@@ -70,4 +70,4 @@ I'm a back-end developer passionate about **high performance, software architect
 
 ## 📫 Where to Find Me
 
-[![GitHub](https://img.shields.io/github/followers/dxrnz?label=follow&style=social)](https://github.com/dxrnz)
+[![GitHub](https://img.shields.io/github/followers/dxrnz?label=follow&style=social)](https://github.com/dreon1st)
