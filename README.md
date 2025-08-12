@@ -55,13 +55,13 @@ I'm a back-end developer passionate about **high performance, software architect
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dreon1st&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dreon1st&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreon1st&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreon1st&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreon1st&theme=dark&hide_border=false" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=dreon1st&theme=dark&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
