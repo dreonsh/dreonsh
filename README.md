@@ -1,73 +1,42 @@
-![Profile Views](https://komarev.com/ghpvc/?username=dreonsh&color=006bed)
+# 👋 Hey, I'm Daniel — Back-end Developer
 
-# 👋 Hello, I'm Daniel (dreonsh)!
-
-💻 **Back-end Developer** | Building efficient and scalable solutions.
-
----
-
-## 🚀 About Me
-
-I'm a back-end developer passionate about **high performance, software architecture, and scalability**. My focus is on building robust APIs, optimizing systems, and ensuring the best user experience through well-structured solutions.
-
-- 🔭 Currently learning more about **all my skills**.
-- 🌱 Exploring **Cloud Computing and event-driven architecture**.
-- 📌 Passionate about **code optimization, databases, and system design**.
-- 💬 Ask me about **Node.js, Express, TypeScript, JavaScript, databases, and back-end architecture** and more...
+Passionate about building **high-performance**, **scalable**, and **well-architected systems**.  
+I focus on crafting robust APIs, designing efficient database structures, and delivering clean, maintainable code.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🔹 Languages & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### 🔹 Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🔹 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔹 Tools
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🧠 What I Do
+- Design and build **RESTful and event-driven APIs**  
+- Focus on **performance, reliability, and scalability**  
+- Apply **clean architecture** and **modern development practices**  
+- Automate workflows, monitor systems, and optimize performance
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech & Tools
+I work daily with tools that make systems **fast, reliable, and easy to scale** — from containers and databases to modern frameworks.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dreonsh&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreonsh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dreonsh&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-</table>
+**Core stack:**
+> Node.js · TypeScript · Express / NestJS · PostgreSQL · Prisma · Docker · GitHub Actions
+
+**Also familiar with:**
+> Redis · MongoDB · Nginx · Linux · Cloud Deployments
 
 ---
 
-## 📫 Where to Find Me
+## 📊 GitHub Insights
 
-[![GitHub](https://img.shields.io/github/followers/dreon1st?label=follow&style=social)](https://github.com/dreonsh)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dreonsh&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreonsh&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-@dreonsh-181717?style=for-the-badge&logo=github)](https://github.com/dreonsh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
