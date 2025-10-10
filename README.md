@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=dreon1st&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=dreonsh&color=006bed)
 
-# 👋 Hello, I'm Daniel (dreon1st)!
+# 👋 Hello, I'm Daniel (dreonsh)!
 
 💻 **Back-end Developer** | Building efficient and scalable solutions.
 
@@ -55,13 +55,13 @@ I'm a back-end developer passionate about **high performance, software architect
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dreon1st&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dreonsh&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreon1st&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreonsh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dreon1st&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dreonsh&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
@@ -70,4 +70,4 @@ I'm a back-end developer passionate about **high performance, software architect
 
 ## 📫 Where to Find Me
 
-[![GitHub](https://img.shields.io/github/followers/dreon1st?label=follow&style=social)](https://github.com/dreon1st)
+[![GitHub](https://img.shields.io/github/followers/dreon1st?label=follow&style=social)](https://github.com/dreonsh)
