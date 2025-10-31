@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Daniel — Back-end Developer
+# 👋 Hey, I'm dreonsh — Back-end Developer and Yahushua Warrior 🙏
 
 Passionate about building **high-performance**, **scalable**, and **well-architected systems**.  
 I focus on crafting robust APIs, designing efficient database structures, and delivering clean, maintainable code.
