@@ -1,6 +1,6 @@
 # 👋 Hey, I'm dreonsh — Back-end Developer
 
-- Yahushua Warrior 🙏
+- Yahusha Warrior 🙏
 
 Passionate about building **high-performance**, **scalable**, and **well-architected systems**.  
 I focus on crafting robust APIs, designing efficient database structures, and delivering clean, maintainable code.
