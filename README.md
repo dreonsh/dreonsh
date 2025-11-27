@@ -37,6 +37,6 @@ I work daily with tools that make systems **fast, reliable, and easy to scale** 
 
 [![GitHub](https://img.shields.io/badge/-@dreonsh-181717?style=for-the-badge&logo=github)](https://github.com/dreonsh)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211405875827179520)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.dreonsh@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreonsh@gmail.com)
 
 ---
