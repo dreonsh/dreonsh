@@ -28,7 +28,7 @@ I work daily with tools that make systems **fast, reliable, and easy to scale** 
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreonsh&theme=github_dark" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=dreonsh&show_icons=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=dreonsh&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
