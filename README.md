@@ -27,8 +27,8 @@ I work daily with tools that make systems **fast, reliable, and easy to scale** 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dreonsh&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreonsh&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dreonsh&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=7200" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreonsh&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200" />
 </p>
 
 ---
